@@ -1,36 +1,38 @@
-MIT License (angepasst für Blocklisten)
+# MIT License (Adapted for Blocklists)
 
 Copyright (c) 2025 tammo_2701
 
-🟢 DU DARFST DIESE BLOCKLISTE FREI VERWENDEN – EGAL WO:
+🟢 YOU ARE FREE TO USE THIS BLOCKLIST – NO MATTER WHERE:
 
-- ✅ AdGuard Home (empfohlen)
+- ✅ AdGuard Home (recommended)
 - ✅ Pi-hole
 - ✅ NextDNS
-- ✅ Andere DNS-Blocker
+- ✅ Other DNS-based blockers
 
-🔄 DU DARFST:
+🔄 YOU MAY:
 
-- 🟦 Im privaten Rahmen nutzen
-- 🟦 Kopieren
-- 🟦 Verändern
-- 🟦 Lokal integrieren
+- 🟦 Use it privately
+- 🟦 Copy it
+- 🟦 Modify it
+- 🟦 Integrate it locally
 
-❗️ WICHTIG:  
-EINE VERÖFFENTLICHUNG, ÖFFENTLICHE WEITERGABE ODER EINBINDUNG IN ANDERE PROJEKTE (Z. B. EIGENE REPOS, WEBSITES, APPS) IST **NUR MIT AUSDRÜCKLICHER GENEHMIGUNG DES URHEBERS** GESTATTET.
+❗️ IMPORTANT:  
+**ANY PUBLICATION, REDISTRIBUTION, OR INTEGRATION INTO OTHER PROJECTS**  
+(e.g. your own repositories, websites, apps) IS **ONLY PERMITTED WITH EXPLICIT PERMISSION FROM THE AUTHOR**.
 
-📌 Der Urheber dieser Liste ist der Inhaber des ursprünglichen GitHub-Repositories: **tammo_2701**.  
-Nur dieser Account darf Genehmigungen zur Weiterverwendung erteilen.
+📌 The author of this list is the owner of the original GitHub repository: **tammo_2701**.  
+Only this account may grant permission for further use.
 
-⚠️ HINWEIS:  
-Diese Liste wurde speziell für **AdGuard Home** entwickelt und getestet.  
-Die Nutzung mit anderen Systemen (z. B. Pi-hole) ist möglich, aber kann abweichendes Verhalten verursachen.
+⚠️ NOTE:  
+This list was specifically developed and tested for **AdGuard Home**.  
+Usage with other systems (e.g. Pi-hole) is possible but may lead to different behavior.
 
-📎 HAFTUNGSAUSSCHLUSS:
+📎 DISCLAIMER:
 
-Diese Blockliste wird **ohne Garantie** bereitgestellt – ohne ausdrückliche oder stillschweigende Zusicherungen, einschließlich, aber nicht beschränkt auf die Marktgängigkeit oder die Eignung für einen bestimmten Zweck.
+This blocklist is provided **"as is", without any warranty** – without express or implied guarantees,  
+including but not limited to merchantability or fitness for a particular purpose.
 
-🔴 **DER URHEBER ÜBERNIMMT KEINERLEI VERANTWORTUNG FÜR RECHTLICHE SCHWIERIGKEITEN ODER SCHÄDEN**,  
-die durch die Nutzung dieser Liste entstehen. Die Nutzung erfolgt vollständig **auf eigene Verantwortung**.
+🔴 **THE AUTHOR ASSUMES NO RESPONSIBILITY FOR LEGAL ISSUES OR DAMAGES**  
+arising from the use of this list. Use is entirely **at your own risk**.
 
-Es besteht keine Haftung für direkte oder indirekte Schäden, Funktionsstörungen, rechtliche Konsequenzen oder sonstige Auswirkungen, die durch den Einsatz dieser Blockliste entstehen könnten.
+There is no liability for direct or indirect damage, malfunctions, legal consequences, or other effects resulting from the use of this blocklist.
