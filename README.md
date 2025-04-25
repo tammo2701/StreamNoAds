@@ -4,7 +4,7 @@
 
 ## 📌 Hintergrund
 
-Viele Streaming-Dienste (z. B. **Amazon Prime Video**, **YouTube**, **Netflix** **PlutoTV** und andere) zeigen gelegentlich Werbeanzeigen vor oder während der Wiedergabe von Inhalten. Diese Blockliste wurde entwickelt, um diese **störende Werbung zu blockieren**, ohne dabei das eigentliche Streaming-Erlebnis zu beeinträchtigen.
+Viele Streaming-Dienste (z. B. **Amazon Prime Video**, **YouTube**, **Netflix**, **PlutoTV** und andere) zeigen gelegentlich Werbeanzeigen vor oder während der Wiedergabe von Inhalten. Diese Blockliste wurde entwickelt, um diese **störende Werbung zu blockieren**, ohne dabei das eigentliche Streaming-Erlebnis zu beeinträchtigen.
 
 > ⚠️ **Hinweis**: Diese Liste blockiert **nur Werbung und Tracking-Domains**, die im Zusammenhang mit Streaming-Diensten verwendet werden. Sie beeinflusst **nicht die Inhalte**, die auf diesen Diensten gestreamt werden.
 
