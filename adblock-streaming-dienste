@@ -14,6 +14,51 @@
 0.0.0.0 paa-reporting-advertising.amazon
 0.0.0.0 advertising.a2z.com
 
+# Blockiere Netflix-Werbung und Tracking
+0.0.0.0 ad.netflix.com
+0.0.0.0 ads.nflxext.com
+0.0.0.0 d3lpsnqlm1ys43.cloudfront.net
+0.0.0.0 ads.r2.netflix.com
+0.0.0.0 ad-uk-nflx-prod.cdn.netflix.com
+0.0.0.0 cdn.nflxext.com
+0.0.0.0 msads.netflix.com
+0.0.0.0 mads.netflix.com
+0.0.0.0 ad-bids.netflix.com
+0.0.0.0 adtracker.netflix.com
+0.0.0.0 mobileads.netflix.com
+0.0.0.0 vads.nflx.com
+0.0.0.0 tracking.nflxext.com
+0.0.0.0 secure.netflix.com
+0.0.0.0 fast.com
+0.0.0.0 netflixads.com
+0.0.0.0 ads.netflixads.com
+0.0.0.0 ad-collector.netflix.com
+0.0.0.0 ads.micros.netflix.com
+0.0.0.0 cdn.micros.netflix.com
+0.0.0.0 video.ad.netflix.com
+0.0.0.0 global-ads.netflix.com
+0.0.0.0 prd.ad.netflix.com
+0.0.0.0 prd.ads.netflix.com
+0.0.0.0 api.netflix.com
+0.0.0.0 admetrics.netflix.com
+0.0.0.0 viewer.ads.netflix.com
+
+# Pluto-TV Werbe/Ad Block
+0.0.0.0 adserver.pluto.tv
+0.0.0.0 ads.pluto.tv
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ads.rubiconproject.com
+0.0.0.0 serve.videologygroup.com
+0.0.0.0 servedbyadbutler.com
+0.0.0.0 pluto-media-vast-ads.cdn.prd.pluto.tv
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 pluto.tv.advertising.com
+0.0.0.0 api.adsrvr.org
+0.0.0.0 trc.taboola.com
+0.0.0.0 ads.mookie1.com
+
 # Blockiere YouTube-Werbung und Tracking (nur Werbung, keine Videos!)
 0.0.0.0 r1---sn-4g5e6nl7.googlevideo.com
 0.0.0.0 r2---sn-4g5e6nl7.googlevideo.com
