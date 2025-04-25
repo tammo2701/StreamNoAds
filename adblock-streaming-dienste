@@ -3,7 +3,7 @@
 0.0.0.0 a185avoddashs3ww-a.akamaihd.net
 0.0.0.0 unagi-na.amazon.com
 
-# Zusatz: Prime Video Werbenetzwerk & Tracking
+# Additional: Prime Video ad network & tracking
 0.0.0.0 s3.ll.videorolls.row.aiv-cdn.net
 0.0.0.0 actionable-video-ads.advertising.amazon.dev
 0.0.0.0 track.pixel.prod-eu.turntable.sonic.advertising.amazon.dev
@@ -14,7 +14,7 @@
 0.0.0.0 paa-reporting-advertising.amazon
 0.0.0.0 advertising.a2z.com
 
-# Blockiere Netflix-Werbung und Tracking
+# Block Netflix ads and tracking
 0.0.0.0 ad.netflix.com
 0.0.0.0 ads.nflxext.com
 0.0.0.0 d3lpsnqlm1ys43.cloudfront.net
@@ -43,7 +43,7 @@
 0.0.0.0 admetrics.netflix.com
 0.0.0.0 viewer.ads.netflix.com
 
-# Pluto-TV Werbe/Ad Block
+# Pluto TV ad block
 0.0.0.0 adserver.pluto.tv
 0.0.0.0 ads.pluto.tv
 0.0.0.0 ad.doubleclick.net
@@ -59,7 +59,7 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 ads.mookie1.com
 
-# Blockiere YouTube-Werbung und Tracking (nur Werbung, keine Videos!)
+# Block YouTube ads and tracking (ads only, not video content!)
 0.0.0.0 r1---sn-4g5e6nl7.googlevideo.com
 0.0.0.0 r2---sn-4g5e6nl7.googlevideo.com
 0.0.0.0 googlevideo.com
@@ -107,8 +107,7 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 cdn.ytimg.com
 
-
-# Joyn Werbeblocking
+# Joyn ad blocking
 0.0.0.0 adtag.cc
 0.0.0.0 ad4m.at
 0.0.0.0 ads.glispa.com
@@ -123,8 +122,7 @@
 0.0.0.0 s.yimg.com
 0.0.0.0 pubads.g.doubleclick.net
 
-
-# Allgemeine Werbe-/Trackingdienste
+# General ad/tracking services
 0.0.0.0 bat.bing.com
 0.0.0.0 9478953.fls.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
@@ -146,11 +144,11 @@
 0.0.0.0 dmp.theadex.com
 0.0.0.0 analytics.tiktok.com
 
-# Optional (etwas aggressiver – Amazon-intern)
+# Optional (slightly more aggressive – internal Amazon services)
 0.0.0.0 metrics.aws.amazon.com
 0.0.0.0 logs.aws.amazon.com
 0.0.0.0 telemetry.amazon.com
 0.0.0.0 data.amazon.com
 
-# Sonstiges
+# Miscellaneous
 0.0.0.0 sqrt-5041.de
