@@ -1,30 +1,26 @@
-# Streaming Dienste Ads Blocklist für AdGuard Home
+# Streaming Services Ads Blocklist for AdGuard Home
 
-🎯 **Ziel dieser Liste**: Blockieren von Werbung auf **Streaming-Diensten**, einschließlich kurzer Werbespots, die vor dem eigentlichen Inhalt abgespielt werden.
+🎯 **Purpose of this list:** Block ads on streaming services, including short commercials that play before the actual content.
 
-## 📌 Hintergrund
+## 📌 Background
 
-Viele Streaming-Dienste (z. B. **Amazon Prime Video**, **YouTube**, **Netflix**, **PlutoTV** und andere) zeigen gelegentlich Werbeanzeigen vor oder während der Wiedergabe von Inhalten. Diese Blockliste wurde entwickelt, um diese **störende Werbung zu blockieren**, ohne dabei das eigentliche Streaming-Erlebnis zu beeinträchtigen.
+Many streaming platforms (such as Amazon Prime Video, YouTube, Netflix, PlutoTV, and others) occasionally display ads before or during content playback. This blocklist is designed to block such disruptive ads without interfering with the actual streaming experience.
 
-> ⚠️ **Hinweis**: Diese Liste blockiert **nur Werbung und Tracking-Domains**, die im Zusammenhang mit Streaming-Diensten verwendet werden. Sie beeinflusst **nicht die Inhalte**, die auf diesen Diensten gestreamt werden.
+> ⚠️ **Note:** This list only blocks ad and tracking domains associated with streaming services. It does **not** affect the streaming content itself.
 
-## 🔧 Kompatibilität
+## 🔧 Compatibility
 
-Diese Liste ist **optimiert für AdGuard Home** und sollte auch mit anderen DNS-basierten Blockern wie **Pi-hole** funktionieren. Es kann jedoch zu **abweichendem Verhalten** kommen, je nach verwendeter Software.
+This list is optimized for **AdGuard Home**, but it should also work with other DNS-based blockers such as **Pi-hole**. Behavior may vary depending on the DNS software being used.
 
-### Unterstützte Systeme:
+**Supported systems:**
+- AdGuard Home 🌐  
+- Pi-hole (and similar DNS-based blockers) 🔒
 
-- [AdGuard Home](https://adguard.com/de/adguard-home/overview.html) 🌐
-- **Pi-hole** (und ähnliche DNS-basierte Blocker) 🔒
+## 📦 Usage
 
-## 📦 Nutzung
+### 1. AdGuard Home Configuration ⚙️
 
-### 1. **AdGuard Home Konfiguration** ⚙️
-
-1. **AdGuard Home-Weboberfläche öffnen**.
-2. Gehe zu **Filter → DNS-Blocklisten**.
-3. Klicke auf **Blockliste hinzufügen**.
-4. Füge den folgenden Link in das **"URL"** Feld ein und speichere:
-
-   ```txt
-   https://raw.githubusercontent.com/your-repository/streaming-ads-blocklist/master/blocklist.txt
+- Open the AdGuard Home web interface  
+- Go to **Filters → DNS blocklists**  
+- Click **Add blocklist**  
+- Paste the following link into the "URL" field and save:
