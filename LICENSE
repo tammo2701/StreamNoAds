@@ -1,12 +1,30 @@
 MIT License (angepasst für Blocklisten)
 
-Copyright (c) [Jahr] [Dein Name oder Benutzername]
+Copyright (c) 2025 tammo_2701
 
-Hiermit wird jeder Person, die eine Kopie dieser Blockliste erhält, unentgeltlich die Erlaubnis erteilt, sie uneingeschränkt zu verwenden – egal, ob für AdGuard Home, Pi-hole, NextDNS oder jedes andere System.
+🟢 **Du darfst diese Blockliste frei verwenden – egal wo:**
 
-Diese Liste darf kopiert, verändert, zusammengeführt, veröffentlicht, verbreitet, unterlizenziert und/oder verkauft werden – unter der Bedingung, dass dieser Hinweis in allen Kopien enthalten bleibt.
+- <span style="color:green;">✅ AdGuard Home (empfohlen)</span>
+- <span style="color:green;">✅ Pi-hole</span>
+- <span style="color:green;">✅ NextDNS</span>
+- <span style="color:green;">✅ Andere DNS-Blocker</span>
 
-⚠️ Hinweis:
-Diese Blockliste wurde speziell für die Nutzung mit **AdGuard Home** entwickelt und getestet. Die Verwendung in anderen Systemen ist möglich, kann aber zu abweichendem Verhalten führen.
+🔄 **Du darfst sie:**
 
-Die Blockliste wird ohne Gewähr bereitgestellt – ohne jegliche ausdrückliche oder stillschweigende Garantie, einschließlich, aber nicht beschränkt auf die Garantien der Marktgängigkeit oder Eignung für einen bestimmten Zweck. Die Nutzung erfolgt auf eigene Verantwortung.
+- <span style="color:blue;">🟦 im privaten Rahmen nutzen</span>
+- <span style="color:blue;">🟦 kopieren</span>
+- <span style="color:blue;">🟦 verändern</span>
+- <span style="color:blue;">🟦 lokal integrieren</span>
+
+❗️ **Eine Veröffentlichung, öffentliche Weitergabe oder Integration in andere öffentliche Projekte (z. B. eigene Repositories, Websites, Apps) ist <span style="color:red;">**nur mit ausdrücklicher Genehmigung des Urhebers**</span> gestattet.**
+
+📌 **Der Urheber dieser Liste ist der** **Inhaber des ursprünglichen GitHub-Repositories**, **in dem diese Datei veröffentlicht wurde. Nur dieser Account (➡️ tammo_2701) kann offizielle Genehmigungen zur weiteren Veröffentlichung erteilen.**
+
+⚠️ **Hinweis:**  
+Diese Liste wurde speziell für **AdGuard Home** entwickelt und getestet. Die Nutzung mit anderen Systemen ist möglich, jedoch kann das Verhalten abweichen.
+
+📎 **Haftungsausschluss:**  
+Diese Blockliste wird **ohne Garantie** bereitgestellt – ohne ausdrückliche oder stillschweigende Zusicherungen, einschließlich, aber nicht beschränkt auf die Marktgängigkeit oder die Eignung für einen bestimmten Zweck.
+
+🔴 **Der Urheber übernimmt keine Verantwortung für etwaige rechtliche Schwierigkeiten oder Schäden, die durch die Nutzung dieser Blockliste entstehen könnten. Jegliche Nutzung erfolgt auf eigene Verantwortung.**  
+Der Urheber haftet nicht für direkte, indirekte, zufällige oder Folgeschäden, die aus der Nutzung der Blockliste entstehen.
