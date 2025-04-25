@@ -1,22 +1,18 @@
-# Private Adblock Home & NextDNS Blocklist
+# Private Adblock Home Blocklist
 
-![Adblock](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Adblock_logo.svg/1024px-Adblock_logo.svg.png)
+![Adblock Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Adblock_logo.svg/1024px-Adblock_logo.svg.png)
 
-Dieses Projekt stellt eine Sammlung von benutzerdefinierten Blocklisten zur Verfügung, die sowohl für den **Private Adblock Home** als auch für **NextDNS** verwendet werden können. Ziel ist es, Werbung, Tracking und unerwünschte Inhalte auf deinem Netzwerk und Geräten zu blockieren.
+Dieses Projekt stellt eine benutzerdefinierte Blockliste für **Private Adblock Home** zur Verfügung, um Werbung, Tracking und unerwünschte Inhalte auf deinem Netzwerk und Geräten zu blockieren.
 
 ## Übersicht
 
-![Blocklist](https://media.giphy.com/media/j2z4If2lxA5gs7bwsm/giphy.gif)
-
-- **Private Adblock Home**: Eine benutzerdefinierte Adblock-Home-Liste für lokale Blockierung von Werbung und Trackern.
-- **NextDNS Blocklist**: Eine angepasste Blockliste für die Nutzung mit NextDNS, um Werbe- und Tracking-Domains zu blockieren und die Online-Privatsphäre zu verbessern.
+- **Private Adblock Home**: Eine benutzerdefinierte Blockliste zur lokalen Blockierung von Werbung und Trackern.
 
 ## Features
 
 - Blockiert Werbung, Tracker und andere unerwünschte Inhalte.
-- Bietet eine benutzerdefinierte Liste für die Integration mit **NextDNS**.
-- Unterstützt die einfache Verwendung von **Private Adblock Home**.
 - Regelmäßige Updates der Blocklisten, um neue Domains und Bedrohungen zu berücksichtigen.
+- Einfach in **Private Adblock Home** integrierbar.
 
 ### 🎯 Was du blockieren kannst:
 - Pop-up-Werbung
@@ -29,23 +25,13 @@ Dieses Projekt stellt eine Sammlung von benutzerdefinierten Blocklisten zur Verf
 ### 1. Private Adblock Home
 
 1. Lade die `adblock-home-list.txt` von diesem Repository herunter.
-2. Füge sie zu deiner Adblock-Home-Konfiguration hinzu. Anweisungen findest du in der [offiziellen Adblock-Home-Dokumentation](https://github.com/AdguardTeam/AdGuardHome).
+2. Füge sie zu deiner **Adblock-Home**-Konfiguration hinzu. Anweisungen findest du in der [offiziellen Adblock-Home-Dokumentation](https://github.com/AdguardTeam/AdGuardHome).
 
-![AdGuard Home Setup](https://media.giphy.com/media/3o6Zt8Q9dPzk9V4C9S/giphy.gif)
-
-### 2. NextDNS Blocklist
-
-1. Gehe zu [NextDNS](https://nextdns.io).
-2. Melde dich an oder erstelle ein Konto, wenn du noch keines hast.
-3. Gehe zu den Blocklist-Einstellungen.
-4. Füge die URL der Blocklist in das entsprechende Feld ein (z. B. `https://github.com/dein-benutzername/private-adblock-home/blob/main/nextdns-blocklist.txt`).
-5. Speichere die Einstellungen.
-
-![NextDNS Setup](https://media.giphy.com/media/xT9IglulHgaXkWcW8w/giphy.gif)
+![AdGuard Home Setup](https://via.placeholder.com/600x300.png?text=AdGuard+Home+Setup)
 
 ## Nutzung
 
-- Die Blocklisten sind so konzipiert, dass sie in verschiedenen Adblockern und DNS-Services verwendet werden können.
+- Die Blockliste ist so konzipiert, dass sie mit **Private Adblock Home** verwendet werden kann.
 - Du kannst das Projekt nach Belieben anpassen und erweitern, um zusätzliche Domains oder Regeln hinzuzufügen.
 
 ## Beitrag leisten
@@ -59,7 +45,7 @@ Beitragen ist ganz einfach! 🎉
 5. Push den Branch (`git push origin feature-name`).
 6. Öffne einen Pull Request.
 
-![GitHub Contribution](https://media.giphy.com/media/l3q2XqzVtf1nfsKPy/giphy.gif)
+![GitHub Contribution](https://via.placeholder.com/600x300.png?text=GitHub+Contribution)
 
 ## Lizenz
 
@@ -71,7 +57,7 @@ Für Fragen oder Vorschläge kannst du ein **Issue** auf GitHub eröffnen oder m
 
 ---
 
-**Hinweis**: Die Blocklisten werden regelmäßig gepflegt und können je nach Bedarf aktualisiert werden. Bitte stelle sicher, dass du immer die neueste Version verwendest, um maximale Effizienz beim Blockieren unerwünschter Inhalte zu gewährleisten.
+**Hinweis**: Die Blockliste wird regelmäßig gepflegt und kann je nach Bedarf aktualisiert werden. Bitte stelle sicher, dass du immer die neueste Version verwendest, um maximale Effizienz beim Blockieren unerwünschter Inhalte zu gewährleisten.
 
 ---
 
