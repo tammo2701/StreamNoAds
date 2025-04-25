@@ -1,25 +1,111 @@
-0.0.0.0 https://abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net/
-0.0.0.0 https://abgob6maaaaaaaampnylpftaarvzo.pop-dub-ww.cf.dash.row.aiv-cdn.net/
-0.0.0.0 https://abgob6maaaaaaaampnylpftaarvzo.pop-dub-ww.cf.dash.row.aiv-cdn.net
-0.0.0.0 https://abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net
-0.0.0.0 https://abgob6maaaaaaaampnylpftaarvzo.pop-dub-ww.cf.dash.row.aiv-cdn.net/aa8b/056c/067a/458b-b026-fe01b4e4aab3/6176e8e4-7d4f-4979-baa3-867dde974712_video_7.mp4?amznDtid=AOAGZA014O5RE
-0.0.0.0 https://a185avoddashs3ww-a.akamaihd.net
 0.0.0.0 abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net
+0.0.0.0 abgob6maaaaaaaampnylpftaarvzo.pop-dub-ww.cf.dash.row.aiv-cdn.net
+0.0.0.0 a185avoddashs3ww-a.akamaihd.net
 0.0.0.0 unagi-na.amazon.com
-0.0.0.0 sqrt-5041.de 
-0.0.0.0 sqrt-5041.de
+
+# Zusatz: Prime Video Werbenetzwerk & Tracking
+0.0.0.0 s3.ll.videorolls.row.aiv-cdn.net
+0.0.0.0 actionable-video-ads.advertising.amazon.dev
+0.0.0.0 track.pixel.prod-eu.turntable.sonic.advertising.amazon.dev
+0.0.0.0 track.prod-eu.turntable.sonic.advertising.amazon.dev
+0.0.0.0 track.pixel.prod-na.turntable.sonic.advertising.amazon.dev
+0.0.0.0 track.prod-na.turntable.sonic.advertising.amazon.dev
+0.0.0.0 aax-us-iad.amazon.com
+0.0.0.0 paa-reporting-advertising.amazon
+0.0.0.0 advertising.a2z.com
+
+# Blockiere YouTube-Werbung und Tracking (nur Werbung, keine Videos!)
+0.0.0.0 r1---sn-4g5e6nl7.googlevideo.com
+0.0.0.0 r2---sn-4g5e6nl7.googlevideo.com
+0.0.0.0 googlevideo.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 youtube-ui.l.googleusercontent.com
+0.0.0.0 ytimg.com
+0.0.0.0 video-stats.video.google.com
+0.0.0.0 youtube-static.s.ytimg.com
+0.0.0.0 ytimg.l.googleusercontent.com
+0.0.0.0 adservices.google.com
+0.0.0.0 doubleclick.net
+0.0.0.0 ads.youtube.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 r1---sn-4g5e6nl7.googlevideo.com
+0.0.0.0 r2---sn-4g5e6nl7.googlevideo.com
+0.0.0.0 googlevideo.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 youtube-ui.l.googleusercontent.com
+0.0.0.0 ytimg.com
+0.0.0.0 video-stats.video.google.com
+0.0.0.0 youtube-static.s.ytimg.com
+0.0.0.0 ytimg.l.googleusercontent.com
+0.0.0.0 adservices.google.com
+0.0.0.0 doubleclick.net
+0.0.0.0 ads.youtube.com
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 youtube.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 yt4.ggpht.com
+0.0.0.0 ytsync.s.ytimg.com
+0.0.0.0 prod.google.com
+0.0.0.0 video-ads-lb.youtube.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 video-stats.video.google.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 ytstatic-a.com
+0.0.0.0 ss2.youtube.com
+0.0.0.0 ss3.youtube.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 cdn.ytimg.com
+
+
+# Joyn Werbeblocking
+0.0.0.0 adtag.cc
+0.0.0.0 ad4m.at
+0.0.0.0 ads.glispa.com
+0.0.0.0 delivery.g.switchadhub.com
+0.0.0.0 joyn-ads.joyn.de
+0.0.0.0 adserver.joyn.de
+0.0.0.0 ads.joyn.de
+0.0.0.0 tracking.joyn.de
+0.0.0.0 video-ad-stitcher.joyn.de
+0.0.0.0 dpm.demdex.net
+0.0.0.0 metrics.brightcove.com
+0.0.0.0 s.yimg.com
+0.0.0.0 pubads.g.doubleclick.net
+
+
+# Allgemeine Werbe-/Trackingdienste
 0.0.0.0 bat.bing.com
 0.0.0.0 9478953.fls.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.googletagservices.com
 0.0.0.0 connect.facebook.net
+0.0.0.0 pixel.facebook.com
+0.0.0.0 analytics.facebook.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 cdn-gl.nmrodam.com
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 tr.outbrain.com
 0.0.0.0 alb.reddit.com
+0.0.0.0 events.redditmedia.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 o292998.ingest.sentry.io
 0.0.0.0 dmp.theadex.com
 0.0.0.0 analytics.tiktok.com
 
+# Optional (etwas aggressiver – Amazon-intern)
+0.0.0.0 metrics.aws.amazon.com
+0.0.0.0 logs.aws.amazon.com
+0.0.0.0 telemetry.amazon.com
+0.0.0.0 data.amazon.com
 
+# Sonstiges
+0.0.0.0 sqrt-5041.de
