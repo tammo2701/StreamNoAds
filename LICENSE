@@ -2,29 +2,35 @@ MIT License (angepasst für Blocklisten)
 
 Copyright (c) 2025 tammo_2701
 
-🟢 **Du darfst diese Blockliste frei verwenden – egal wo:**
+🟢 DU DARFST DIESE BLOCKLISTE FREI VERWENDEN – EGAL WO:
 
-- <span style="color:green;">✅ AdGuard Home (empfohlen)</span>
-- <span style="color:green;">✅ Pi-hole</span>
-- <span style="color:green;">✅ NextDNS</span>
-- <span style="color:green;">✅ Andere DNS-Blocker</span>
+- ✅ AdGuard Home (empfohlen)
+- ✅ Pi-hole
+- ✅ NextDNS
+- ✅ Andere DNS-Blocker
 
-🔄 **Du darfst sie:**
+🔄 DU DARFST:
 
-- <span style="color:blue;">🟦 im privaten Rahmen nutzen</span>
-- <span style="color:blue;">🟦 kopieren</span>
-- <span style="color:blue;">🟦 verändern</span>
-- <span style="color:blue;">🟦 lokal integrieren</span>
+- 🟦 Im privaten Rahmen nutzen
+- 🟦 Kopieren
+- 🟦 Verändern
+- 🟦 Lokal integrieren
 
-❗️ **Eine Veröffentlichung, öffentliche Weitergabe oder Integration in andere öffentliche Projekte (z. B. eigene Repositories, Websites, Apps) ist <span style="color:red;">**nur mit ausdrücklicher Genehmigung des Urhebers**</span> gestattet.**
+❗️ WICHTIG:  
+EINE VERÖFFENTLICHUNG, ÖFFENTLICHE WEITERGABE ODER EINBINDUNG IN ANDERE PROJEKTE (Z. B. EIGENE REPOS, WEBSITES, APPS) IST **NUR MIT AUSDRÜCKLICHER GENEHMIGUNG DES URHEBERS** GESTATTET.
 
-📌 **Der Urheber dieser Liste ist der** **Inhaber des ursprünglichen GitHub-Repositories**, **in dem diese Datei veröffentlicht wurde. Nur dieser Account (➡️ tammo_2701) kann offizielle Genehmigungen zur weiteren Veröffentlichung erteilen.**
+📌 Der Urheber dieser Liste ist der Inhaber des ursprünglichen GitHub-Repositories: **tammo_2701**.  
+Nur dieser Account darf Genehmigungen zur Weiterverwendung erteilen.
 
-⚠️ **Hinweis:**  
-Diese Liste wurde speziell für **AdGuard Home** entwickelt und getestet. Die Nutzung mit anderen Systemen ist möglich, jedoch kann das Verhalten abweichen.
+⚠️ HINWEIS:  
+Diese Liste wurde speziell für **AdGuard Home** entwickelt und getestet.  
+Die Nutzung mit anderen Systemen (z. B. Pi-hole) ist möglich, aber kann abweichendes Verhalten verursachen.
 
-📎 **Haftungsausschluss:**  
+📎 HAFTUNGSAUSSCHLUSS:
+
 Diese Blockliste wird **ohne Garantie** bereitgestellt – ohne ausdrückliche oder stillschweigende Zusicherungen, einschließlich, aber nicht beschränkt auf die Marktgängigkeit oder die Eignung für einen bestimmten Zweck.
 
-🔴 **Der Urheber übernimmt keine Verantwortung für etwaige rechtliche Schwierigkeiten oder Schäden, die durch die Nutzung dieser Blockliste entstehen könnten. Jegliche Nutzung erfolgt auf eigene Verantwortung.**  
-Der Urheber haftet nicht für direkte, indirekte, zufällige oder Folgeschäden, die aus der Nutzung der Blockliste entstehen.
+🔴 **DER URHEBER ÜBERNIMMT KEINERLEI VERANTWORTUNG FÜR RECHTLICHE SCHWIERIGKEITEN ODER SCHÄDEN**,  
+die durch die Nutzung dieser Liste entstehen. Die Nutzung erfolgt vollständig **auf eigene Verantwortung**.
+
+Es besteht keine Haftung für direkte oder indirekte Schäden, Funktionsstörungen, rechtliche Konsequenzen oder sonstige Auswirkungen, die durch den Einsatz dieser Blockliste entstehen könnten.
