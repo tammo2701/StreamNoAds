@@ -43,22 +43,6 @@
 0.0.0.0 admetrics.netflix.com
 0.0.0.0 viewer.ads.netflix.com
 
-# Pluto TV ad block
-0.0.0.0 adserver.pluto.tv
-0.0.0.0 ads.pluto.tv
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 ads.rubiconproject.com
-0.0.0.0 serve.videologygroup.com
-0.0.0.0 servedbyadbutler.com
-0.0.0.0 pluto-media-vast-ads.cdn.prd.pluto.tv
-0.0.0.0 adclick.g.doubleclick.net
-0.0.0.0 pluto.tv.advertising.com
-0.0.0.0 api.adsrvr.org
-0.0.0.0 trc.taboola.com
-0.0.0.0 ads.mookie1.com
-
 # Block YouTube ads and tracking (ads only, not video content!)
 0.0.0.0 r1---sn-4g5e6nl7.googlevideo.com
 0.0.0.0 r2---sn-4g5e6nl7.googlevideo.com
