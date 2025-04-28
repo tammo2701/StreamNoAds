@@ -1,0 +1,14 @@
+# Allow necessary domains for Pluto TV
+# 0.0.0.0 pluto.tv
+# 0.0.0.0 viacomcbsi.com
+# 0.0.0.0 ads.viaplay.tv
+# 0.0.0.0 s0.2mdn.net
+# 0.0.0.0 pubads.g.doubleclick.net
+# 0.0.0.0 freewheel.tv
+# 0.0.0.0 plutotv.net
+# 0.0.0.0 conviva.com
+# 0.0.0.0 conviva.net
+# 0.0.0.0 moatads.com
+# 0.0.0.0 spotxchange.com
+# 0.0.0.0 spotx.tv
+# 0.0.0.0 googlesyndication.com
