@@ -1,32 +1,94 @@
-! ===== GOOGLE / YOUTUBE =====
+! =============================================
+! GOOGLE / YOUTUBE
+! =============================================
  
-! Google Tag Manager – wird für YouTube-Login und einige Features benötigt
-@@||www.googletagmanager.com^
- 
-! Google APIs – für YouTube-Funktionen notwendig
+! Google APIs – für YouTube-Login und Features
 @@||apis.google.com^
  
-! YouTube Embed – für eingebettete Videos auf anderen Seiten
+! YouTube Embeds auf anderen Seiten
 @@||www.youtube-nocookie.com^
  
-! ===== NETFLIX =====
+! =============================================
+! NETFLIX
+! =============================================
  
-! Netflix Videoqualität – ohne Conviva kann die Qualitätsregelung schlechter werden
+! Netflix Videoqualitätssteuerung
 @@||cws.conviva.com^
  
-! Netflix CDN – Streaming-Inhalte
+! Netflix CDN
 @@||assets.nflxext.com^
  
-! ===== AMAZON PRIME VIDEO =====
+! =============================================
+! AMAZON PRIME VIDEO
+! =============================================
  
-! Amazon Login & Account-Funktionen
+! Amazon Login & Account
 @@||unagi.amazon.com^
  
-! Prime Video CDN
-@@||d1v4kl0j9s5x2c.cloudfront.net^
+! =============================================
+! PLUTO TV
+! =============================================
  
-! ===== ALLGEMEIN =====
+! Pluto TV Hauptfunktionen (App-Start, Login)
+@@||api.pluto.tv^
+@@||boot.pluto.tv^
  
-! Segment – wird von vielen Apps für grundlegende Funktionen genutzt
+! =============================================
+! JOYN
+! =============================================
+ 
+! Joyn Login & Accountfunktionen
+@@||api.joyn.de^
+@@||auth.joyn.de^
+ 
+! =============================================
+! RTL+
+! =============================================
+ 
+! RTL+ Login & Streaming-Funktionen
+@@||api.tvnow.de^
+@@||auth.rtl.de^
+ 
+! =============================================
+! DISNEY+
+! =============================================
+ 
+! Disney+ Login (über BAM/Disney-API)
+@@||global.edge.bamgrid.com^
+@@||disney.api.edge.bamgrid.com^
+ 
+! =============================================
+! TWITCH
+! =============================================
+ 
+! Twitch GraphQL – ohne das funktioniert Twitch gar nicht
+@@||gql.twitch.tv^
+ 
+! Twitch Clips & VODs
+@@||clips.twitch.tv^
+ 
+! =============================================
+! SKY / WOW
+! =============================================
+ 
+! Sky Login & Account
+@@||loginpage.sky.de^
+@@||account.sky.de^
+ 
+! =============================================
+! CRUNCHYROLL
+! =============================================
+ 
+! Crunchyroll Login & API
+@@||api.crunchyroll.com^
+@@||auth.crunchyroll.com^
+ 
+! =============================================
+! ALLGEMEIN
+! =============================================
+ 
+! Segment CDN – für App-Grundfunktionen bei mehreren Diensten
 @@||cdn.segment.com^
  
+! Conviva – Videoqualität bei Netflix, Joyn, RTL+
+@@||cws.conviva.com^
