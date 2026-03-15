@@ -1,138 +1,105 @@
-0.0.0.0 abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net
-0.0.0.0 abgob6maaaaaaaampnylpftaarvzo.pop-dub-ww.cf.dash.row.aiv-cdn.net
-0.0.0.0 a185avoddashs3ww-a.akamaihd.net
-0.0.0.0 unagi-na.amazon.com
-
-# Additional: Prime Video ad network & tracking
-0.0.0.0 s3.ll.videorolls.row.aiv-cdn.net
-0.0.0.0 actionable-video-ads.advertising.amazon.dev
-0.0.0.0 track.pixel.prod-eu.turntable.sonic.advertising.amazon.dev
-0.0.0.0 track.prod-eu.turntable.sonic.advertising.amazon.dev
-0.0.0.0 track.pixel.prod-na.turntable.sonic.advertising.amazon.dev
-0.0.0.0 track.prod-na.turntable.sonic.advertising.amazon.dev
-0.0.0.0 aax-us-iad.amazon.com
-0.0.0.0 paa-reporting-advertising.amazon
-0.0.0.0 advertising.a2z.com
-
-# Block Netflix ads and tracking
-0.0.0.0 ad.netflix.com
-0.0.0.0 ads.nflxext.com
-0.0.0.0 d3lpsnqlm1ys43.cloudfront.net
-0.0.0.0 ads.r2.netflix.com
-0.0.0.0 ad-uk-nflx-prod.cdn.netflix.com
-0.0.0.0 cdn.nflxext.com
-0.0.0.0 msads.netflix.com
-0.0.0.0 mads.netflix.com
-0.0.0.0 ad-bids.netflix.com
-0.0.0.0 adtracker.netflix.com
-0.0.0.0 mobileads.netflix.com
-0.0.0.0 vads.nflx.com
-0.0.0.0 tracking.nflxext.com
-0.0.0.0 secure.netflix.com
-0.0.0.0 fast.com
-0.0.0.0 netflixads.com
-0.0.0.0 ads.netflixads.com
-0.0.0.0 ad-collector.netflix.com
-0.0.0.0 ads.micros.netflix.com
-0.0.0.0 cdn.micros.netflix.com
-0.0.0.0 video.ad.netflix.com
-0.0.0.0 global-ads.netflix.com
-0.0.0.0 prd.ad.netflix.com
-0.0.0.0 prd.ads.netflix.com
-0.0.0.0 api.netflix.com
-0.0.0.0 admetrics.netflix.com
-0.0.0.0 viewer.ads.netflix.com
-
-# Block YouTube ads and tracking (ads only, not video content!)
-0.0.0.0 r1---sn-4g5e6nl7.googlevideo.com
-0.0.0.0 r2---sn-4g5e6nl7.googlevideo.com
-0.0.0.0 googlevideo.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 youtube-ui.l.googleusercontent.com
-0.0.0.0 ytimg.com
-0.0.0.0 video-stats.video.google.com
-0.0.0.0 youtube-static.s.ytimg.com
-0.0.0.0 ytimg.l.googleusercontent.com
-0.0.0.0 adservices.google.com
-0.0.0.0 doubleclick.net
-0.0.0.0 ads.youtube.com
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 r1---sn-4g5e6nl7.googlevideo.com
-0.0.0.0 r2---sn-4g5e6nl7.googlevideo.com
-0.0.0.0 googlevideo.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 youtube-ui.l.googleusercontent.com
-0.0.0.0 ytimg.com
-0.0.0.0 video-stats.video.google.com
-0.0.0.0 youtube-static.s.ytimg.com
-0.0.0.0 ytimg.l.googleusercontent.com
-0.0.0.0 adservices.google.com
-0.0.0.0 doubleclick.net
-0.0.0.0 ads.youtube.com
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 youtube.com
-0.0.0.0 yt3.ggpht.com
-0.0.0.0 yt4.ggpht.com
-0.0.0.0 ytsync.s.ytimg.com
-0.0.0.0 prod.google.com
-0.0.0.0 video-ads-lb.youtube.com
-0.0.0.0 i.ytimg.com
-0.0.0.0 s.ytimg.com
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 video-stats.video.google.com
-0.0.0.0 s0.2mdn.net
-0.0.0.0 ytstatic-a.com
-0.0.0.0 ss2.youtube.com
-0.0.0.0 ss3.youtube.com
-0.0.0.0 partner.googleadservices.com
-0.0.0.0 ads.youtube.com
-0.0.0.0 cdn.ytimg.com
-
-# Joyn ad blocking
-0.0.0.0 adtag.cc
-0.0.0.0 ad4m.at
-0.0.0.0 ads.glispa.com
-0.0.0.0 delivery.g.switchadhub.com
-0.0.0.0 joyn-ads.joyn.de
-0.0.0.0 adserver.joyn.de
-0.0.0.0 ads.joyn.de
-0.0.0.0 tracking.joyn.de
-0.0.0.0 video-ad-stitcher.joyn.de
-0.0.0.0 dpm.demdex.net
-0.0.0.0 metrics.brightcove.com
-0.0.0.0 s.yimg.com
-0.0.0.0 pubads.g.doubleclick.net
-
-# General ad/tracking services
-0.0.0.0 bat.bing.com
-0.0.0.0 9478953.fls.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 www.googleadservices.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 www.googletagservices.com
-0.0.0.0 connect.facebook.net
-0.0.0.0 pixel.facebook.com
-0.0.0.0 analytics.facebook.com
-0.0.0.0 static.hotjar.com
-0.0.0.0 cdn-gl.nmrodam.com
-0.0.0.0 amplify.outbrain.com
-0.0.0.0 tr.outbrain.com
-0.0.0.0 alb.reddit.com
-0.0.0.0 events.redditmedia.com
-0.0.0.0 cdn.segment.com
-0.0.0.0 o292998.ingest.sentry.io
-0.0.0.0 dmp.theadex.com
-0.0.0.0 analytics.tiktok.com
-
-# Optional (slightly more aggressive – internal Amazon services)
-0.0.0.0 metrics.aws.amazon.com
-0.0.0.0 logs.aws.amazon.com
-0.0.0.0 telemetry.amazon.com
-0.0.0.0 data.amazon.com
-
-# Miscellaneous
-0.0.0.0 sqrt-5041.de
+! ===== YOUTUBE / GOOGLE ADS =====
+ 
+! Google Ads & Tracking
+||googleadservices.com^
+||googlesyndication.com^
+||doubleclick.net^
+||adservice.google.com^
+||adservice.google.de^
+||ads.google.com^
+||pagead2.googlesyndication.com^
+||www.googletagmanager.com^
+||www.googletagservices.com^
+||imasdk.googleapis.com^
+||securepubads.g.doubleclick.net^
+||tpc.googlesyndication.com^
+||youtube-nocookie.com^$important
+ 
+! YouTube Tracking
+||youtubei.googleapis.com/youtubei/v1/log_event^
+||www.youtube.com/api/stats/ads^
+||www.youtube.com/pagead/^
+||yt3.ggpht.com/ytads^
+ 
+! ===== NETFLIX ADS & TRACKING =====
+ 
+! Netflix Werbung (Ad-Tier)
+||ads.netflix.com^
+||adtechfwd.com^
+||adserver.netflix.com^
+||tracking.netflix.com^
+||assets.nflxext.com/ads^
+ 
+! Netflix Tracker
+||nrd.netflix.com^
+||ichnaea.netflix.com^
+||comet.netflix.com^
+||edge.api.brightline.tv^
+||linear.tv.ads.conviva.com^
+ 
+! Conviva (Video Ad Analytics, wird von Netflix genutzt)
+||conviva.com^
+||cws.conviva.com^
+||client.conviva.com^
+ 
+! ===== AMAZON PRIME VIDEO ADS =====
+ 
+! Amazon Ads
+||aax.amazon-adsystem.com^
+||z-na.amazon-adsystem.com^
+||fls-na.amazon.com^
+||s.amazon-adsystem.com^
+||c.amazon-adsystem.com^
+||mads.amazon-adsystem.com^
+||ad.doubleclick.net^
+ 
+! Prime Video Tracking & Werbung
+||ssproxy.ivideosmart.com^
+||ads.primevideo.com^
+||fe.atvpdkikx0der.com^
+||unagi.amazon.com^
+||d1v4kl0j9s5x2c.cloudfront.net^
+ 
+! Amazon Tracking allgemein
+||device-metrics-us.amazon.com^
+||fls-eu.amazon.com^
+||rcm-eu.amazon-adsystem.com^
+ 
+! ===== ALLGEMEINE AD/TRACKING DOMAINS =====
+! (werden von allen drei Diensten genutzt)
+ 
+! IAS / Integral Ad Science
+||pixel.adsafeprotected.com^
+||dt.adsafeprotected.com^
+ 
+! Moat Analytics (Werbemessung)
+||moatads.com^
+||moat.com^
+||z.moatads.com^
+ 
+! Innovid (Streaming-Werbeplattform)
+||innovid.com^
+||ad.innovid.com^
+||sync.innovid.com^
+ 
+! FreeWheel (Streaming-Werbeplattform)
+||fwmrm.net^
+||cdn.fwmrm.net^
+||adm.fwmrm.net^
+ 
+! Segment Analytics
+||cdn.segment.com^
+||api.segment.io^
+ 
+! Branch.io
+||branch.io^
+||api2.branch.io^
+ 
+! Amplitude Analytics
+||api.amplitude.com^
+||api2.amplitude.com^
+ 
+! Mixpanel
+||api.mixpanel.com^
+||cdn.mxpnl.com^
+ 
