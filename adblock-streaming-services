@@ -1,6 +1,7 @@
-! ===== YOUTUBE / GOOGLE ADS =====
+! =============================================
+! YOUTUBE / GOOGLE ADS
+! =============================================
  
-! Google Ads & Tracking
 ||googleadservices.com^
 ||googlesyndication.com^
 ||doubleclick.net^
@@ -8,92 +9,205 @@
 ||adservice.google.de^
 ||ads.google.com^
 ||pagead2.googlesyndication.com^
-||www.googletagmanager.com^
 ||www.googletagservices.com^
 ||imasdk.googleapis.com^
 ||securepubads.g.doubleclick.net^
 ||tpc.googlesyndication.com^
-||youtube-nocookie.com^$important
- 
-! YouTube Tracking
-||youtubei.googleapis.com/youtubei/v1/log_event^
 ||www.youtube.com/api/stats/ads^
 ||www.youtube.com/pagead/^
-||yt3.ggpht.com/ytads^
  
-! ===== NETFLIX ADS & TRACKING =====
+! =============================================
+! NETFLIX
+! =============================================
  
-! Netflix Werbung (Ad-Tier)
 ||ads.netflix.com^
 ||adtechfwd.com^
 ||adserver.netflix.com^
 ||tracking.netflix.com^
-||assets.nflxext.com/ads^
- 
-! Netflix Tracker
 ||nrd.netflix.com^
 ||ichnaea.netflix.com^
 ||comet.netflix.com^
 ||edge.api.brightline.tv^
 ||linear.tv.ads.conviva.com^
  
-! Conviva (Video Ad Analytics, wird von Netflix genutzt)
-||conviva.com^
-||cws.conviva.com^
-||client.conviva.com^
+! =============================================
+! AMAZON PRIME VIDEO
+! =============================================
  
-! ===== AMAZON PRIME VIDEO ADS =====
- 
-! Amazon Ads
 ||aax.amazon-adsystem.com^
 ||z-na.amazon-adsystem.com^
 ||fls-na.amazon.com^
 ||s.amazon-adsystem.com^
 ||c.amazon-adsystem.com^
 ||mads.amazon-adsystem.com^
-||ad.doubleclick.net^
- 
-! Prime Video Tracking & Werbung
-||ssproxy.ivideosmart.com^
 ||ads.primevideo.com^
-||fe.atvpdkikx0der.com^
-||unagi.amazon.com^
-||d1v4kl0j9s5x2c.cloudfront.net^
- 
-! Amazon Tracking allgemein
 ||device-metrics-us.amazon.com^
 ||fls-eu.amazon.com^
 ||rcm-eu.amazon-adsystem.com^
  
-! ===== ALLGEMEINE AD/TRACKING DOMAINS =====
-! (werden von allen drei Diensten genutzt)
+! =============================================
+! PLUTO TV
+! =============================================
  
-! IAS / Integral Ad Science
-||pixel.adsafeprotected.com^
-||dt.adsafeprotected.com^
+||ads.pluto.tv^
+||adserver.pluto.tv^
+||tracking.pluto.tv^
+||syndication.pluto.tv^
+||s.pluto.tv/ads^
+||ssp.pluto.tv^
+||phoenix.pluto.tv/v1/tracking^
+||adstir.pluto.tv^
+||ads-stitcher.pluto.tv^
  
-! Moat Analytics (Werbemessung)
-||moatads.com^
-||moat.com^
-||z.moatads.com^
+! =============================================
+! TUBI
+! =============================================
  
-! Innovid (Streaming-Werbeplattform)
-||innovid.com^
-||ad.innovid.com^
-||sync.innovid.com^
+||ads.tubi.tv^
+||adserver.tubi.tv^
+||tracking.tubi.tv^
+||ad.tubi.io^
+||analytics.tubi.tv^
+||pixel.tubi.tv^
+||s.tubi.tv/ads^
+ 
+! =============================================
+! JOYN (ProSiebenSat.1)
+! =============================================
+ 
+||adtech.de^
+||adtech.com^
+||ads.joyn.de^
+||tracking.joyn.de^
+||analytics.joyn.de^
+||pixel.joyn.de^
+||ad.7tv.de^
+||adition.com^
+||p7s1-advertising.de^
+||t.p7s1-ad.com^
+ 
+! =============================================
+! RTL+ / TVNOW
+! =============================================
+ 
+||ads.rtl.de^
+||adserver.rtl.de^
+||tracking.rtl.de^
+||analytics.tvnow.de^
+||ad.tvnow.de^
+||pixel.tvnow.de^
+||rtl-ads.de^
+||tracker.rtl.de^
+||emetriq.de^
+||adscale.de^
+ 
+! =============================================
+! DISNEY+
+! =============================================
+ 
+||ads.disneyplus.com^
+||tracking.disneyplus.com^
+||adserver.disneyplus.com^
+||analytics.disneyplus.com^
+||cdn.registerdisney.go.com/ads^
+||espncdn.com/ads^
+||bam-sdk.go.com/ads^
+ 
+! =============================================
+! TWITCH
+! =============================================
+ 
+||ads.twitch.tv^
+||adserver.twitch.tv^
+||imasdk.googleapis.com^
+||spade.twitch.tv^
+||tracking.twitch.tv^
+||static.twitchsvc.net/ads^
+||usher.twitchapps.com^
+||twitchsvc.net/ads^
+||gql.twitch.tv^$important,denyallow=gql.twitch.tv
+ 
+! Twitch Purple Ad Tracking
+||pubads.g.doubleclick.net^
+ 
+! =============================================
+! SKY / WOW
+! =============================================
+ 
+||ads.sky.de^
+||adserver.sky.de^
+||tracking.sky.de^
+||analytics.sky.de^
+||ad.nowtv.de^
+||pixel.sky.com^
+||sky.adform.net^
+||adform.net^
+||ads.wowtv.de^
+ 
+! =============================================
+! CRUNCHYROLL
+! =============================================
+ 
+||ads.crunchyroll.com^
+||adserver.crunchyroll.com^
+||tracking.crunchyroll.com^
+||pixel.crunchyroll.com^
+||analytics.vrv.co^
+||ads.vrv.co^
+ 
+! =============================================
+! GEMEINSAME AD-PLATTFORMEN
+! (werden von mehreren Diensten genutzt)
+! =============================================
  
 ! FreeWheel (Streaming-Werbeplattform)
 ||fwmrm.net^
 ||cdn.fwmrm.net^
 ||adm.fwmrm.net^
+||mfr.fwmrm.net^
+ 
+! Innovid (Streaming-Werbeplattform)
+||innovid.com^
+||ad.innovid.com^
+||sync.innovid.com^
+||pixel.innovid.com^
+ 
+! SpotX (Streaming-Werbeplattform)
+||spotx.tv^
+||cdn.spotx.tv^
+||search.spotxchange.com^
+ 
+! Tremor Video / Unruly
+||tremorhub.com^
+||unrulymedia.com^
+ 
+! Yospace (Ad-Stitching)
+||yospace.com^
+||csm-e.yospace.com^
+ 
+! SpringServe
+||springserve.com^
+||vid.springserve.com^
+ 
+! Brightcove (Video-Werbung)
+||metrics.brightcove.com^
+ 
+! Conviva (Video Analytics)
+||conviva.com^
+||cws.conviva.com^
+||client.conviva.com^
+ 
+! Moat Analytics
+||moatads.com^
+||moat.com^
+||z.moatads.com^
+ 
+! IAS / Integral Ad Science
+||pixel.adsafeprotected.com^
+||dt.adsafeprotected.com^
  
 ! Segment Analytics
-||cdn.segment.com^
 ||api.segment.io^
- 
-! Branch.io
-||branch.io^
-||api2.branch.io^
  
 ! Amplitude Analytics
 ||api.amplitude.com^
@@ -101,5 +215,7 @@
  
 ! Mixpanel
 ||api.mixpanel.com^
-||cdn.mxpnl.com^
  
+! Branch.io
+||branch.io^
+||api2.branch.io^
